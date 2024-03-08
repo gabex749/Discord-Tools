@@ -1,0 +1,6 @@
+requests
+colorama
+ctypes
+
+For mass dm bot script : 
+discord.py
